@@ -1,4 +1,7 @@
 # Cyber Lucky Draw for Christmas 2024
+
+## Notice:This project cannot use as commercial!
+
 ## Introduction
 This is a Christmas lucky draw for 2024, including 5-yuan pool and 20-yuan pool and I pool contain both 5-yuan-pool and 20-yuan-pool.
 
