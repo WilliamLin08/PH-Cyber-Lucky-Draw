@@ -16,24 +16,24 @@ class CyberLuckyDraw:
         # ==================== Pools Definition ====================
         # 5-yuan Pool
         self.prizes_5 = {
-            "🎁 Special Prize (100 RMB)": 0.002,
-            "🎄 First Prize (50 RMB)": 0.01,
-            "🎅 Second Prize (20 RMB)": 0.03,
-            "❄️ Third Prize (10 RMB)": 0.08,
-            "☃️ Fourth Prize (0 RMB)": 0.22,  # Renamed from "colo"
-            "🎉 Try Again": 0.10,
-            "🔔 No Prize": 0.528
+            "🎁 Special Prize (100 RMB)": 0.0,
+            "🎄 First Prize (50 RMB)": 0.0,
+            "🎅 Second Prize (20 RMB)": 0.0,
+            "❄️ Third Prize (10 RMB)": 0.0,
+            "☃️ Fourth Prize (0 RMB)": 0.0,  # Renamed from "colo"
+            "🎉 Try Again": 0.0,
+            "🔔 No Prize": 0.0
         }
 
         # 20-yuan Pool - Updated as per user request
         self.prizes_20 = {
-            "🎁 Special Prize (500 RMB)": 0.002,
-            "🎄 First Prize (200 RMB)": 0.01,
-            "🎅 Second Prize (50 RMB)": 0.05,
-            "❄️ Third Prize (30 RMB)": 0.10,
-            "☃️ Fourth Prize (Coke 2 RMB)": 0.25,
-            "🎉 Try Again": 0.15,
-            "🔔 No Prize": 0.438
+            "🎁 Special Prize (500 RMB)": 0.0,
+            "🎄 First Prize (200 RMB)": 0.0,
+            "🎅 Second Prize (50 RMB)": 0.0,
+            "❄️ Third Prize (30 RMB)": 0.0,
+            "☃️ Fourth Prize (Coke 2 RMB)": 0.0,
+            "🎉 Try Again": 0.0,
+            "🔔 No Prize": 0.0
         }
 
         # ==================== Tracking Variables ====================

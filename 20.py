@@ -19,13 +19,13 @@ class LotteryScratchCard20:
 
         # 奖项及概率（示例，可根据需求调整）
         self.prizes = {
-            "🎁 特等奖 (500元)": 0.002,
-            "🎄 一等奖 (200元)": 0.01,
-            "🎅 二等奖 (50元)": 0.05,
-            "❄️ 三等奖 (30元)": 0.10,
-            "☃️ 四等奖 (可乐2元)": 0.25,
-            "🎉 再来一次": 0.15,
-            "🔔 未中奖": 0.438
+            "🎁 Special Prize (500 RMB)": 0.0,
+            "🎄 First Prize (200 RMB)": 0.0,
+            "🎅 Second Prize (50 RMB)": 0.0,
+            "❄️ Third Prize (30 RMB)": 0.0,
+            "☃️ Fourth Prize (Coke 2 RMB)": 0.0,
+            "🎉 Try Again": 0.0,
+            "🔔 No Prize": 0.0
         }
 
         # 刮开区域追踪
