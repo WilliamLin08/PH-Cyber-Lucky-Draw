@@ -16,7 +16,7 @@ The code you need to change is between line 18 and 36 in overall.py, 21 and 29 b
             "🎄 First Prize (50 RMB)":  ,
             "🎅 Second Prize (20 RMB)":  ,
             "❄️ Third Prize (10 RMB)":  ,
-            "☃️ Fourth Prize (0 RMB)":  ,  # Renamed from "colo"
+            "☃️ Fourth Prize": ,
             "🎉 Try Again": 0.10,
             "🔔 No Prize": 0.528
         }
@@ -27,7 +27,7 @@ The code you need to change is between line 18 and 36 in overall.py, 21 and 29 b
             "🎄 First Prize (200 RMB)":  ,
             "🎅 Second Prize (50 RMB)":  ,
             "❄️ Third Prize (30 RMB)":  ,
-            "☃️ Fourth Prize (Coke 2 RMB)":  ,
+            "☃️ Fourth Prize ":  ,
             "🎉 Try Again":  ,
             "🔔 No Prize":  
         }
@@ -37,29 +37,29 @@ The code you need to change is between line 18 and 36 in overall.py, 21 and 29 b
 
 ### 5-yuan-pool:
 
-| prize     |   prob |   cost |
-|:----------|-------:|-------:|
-| 100       |  0.007 |  0.7   |
-| 50        |  0.01  |  0.5   |
-| 20        |  0.03  |  0.6   |
-| 10        |  0.12  |  1.2   |
-| 可乐/零食 |  0.27  |  0.54  |
-| re        |  0.15  |  0.531 |
-| /         |  0.413 |  0     |
-| overall   |  1     |  4.071 |
+| prize        |   prob |   cost |
+|:-------------|-------:|-------:|
+| 100          |  0.007 |  0.7   |
+| 50           |  0.01  |  0.5   |
+| 20           |  0.03  |  0.6   |
+| 10           |  0.12  |  1.2   |
+| Fourth Prize |  0.27  |  0.54  |
+| Try Again    |  0.15  |  0.531 |
+| No Prize     |  0.413 |  0     |
+| overall      |  1     |  4.071 |
 
 
 ### 20-yuan-pool:
 
-| prize     |   prob |    cost |
-|:----------|-------:|--------:|
-| 500       |  0.007 |  3.5    |
-| 200       |  0.019 |  3.8    |
-| 50        |  0.051 |  2.55   |
-| 30        |  0.12  |  3.6    |
-| 可乐/零食 |  0.25  |  0.5    |
-| re        |  0.15  |  2.0925 |
-| /         |  0.403 |  0      |
-| overall   |  1     | 16.0425 |
+| prize       |   prob |    cost |
+|:------------|-------:|--------:|
+| 500         |  0.007 |  3.5    |
+| 200         |  0.019 |  3.8    |
+| 50          |  0.051 |  2.55   |
+| 30          |  0.12  |  3.6    |
+| Forth Prize |  0.25  |  0.5    |
+| Try Again   |  0.15  |  2.0925 |
+| No prize    |  0.403 |  0      |
+| overall     |  1     | 16.0425 |
 
 
