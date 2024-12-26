@@ -3,7 +3,7 @@
 ## Notice:This project cannot use as commercial!
 
 ## Introduction
-This is a Christmas lucky draw for 2024, including 5-yuan pool and 20-yuan pool and I pool contain both 5-yuan-pool and 20-yuan-pool.
+This is a Christmas lucky draw for 2024, including 5-yuan pool, 20-yuan pool, the pool containing both 5-yuan-pool and 20-yuan-pool.
 
 ## How to use
 First, choose which pool you want to use. Then, download the pool.
